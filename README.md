@@ -65,7 +65,7 @@ O modelo com **2 clusters** foi o mais adequado para representar a realidade mac
 ---
 
 ## 📁 Fonte dos Dados
-[Kaggle Dataset](https://www.kaggle.com/) *(link específico pode ser adicionado aqui)*
+[Kaggle Dataset](https://www.kaggle.com/datasets/hanzlanawaz/economy-of-europe-2022)*
 
 ## 🧠 Tecnologias Utilizadas
 - Python
